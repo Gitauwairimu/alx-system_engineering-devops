@@ -1,6 +1,10 @@
 #!/bin/bash
 for i in {a..z} 
 do 
-echo o$i 
+	if (i==o)
+	then
+		continue
+	fi
+	echo o$i 
 
 done
