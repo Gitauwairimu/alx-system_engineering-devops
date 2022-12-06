@@ -1,4 +1,4 @@
 #!/bin/bash
 touch "\\\*\\\\'\"Best School\"\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:)"
 
-echo -e "Best School"
+echo "Best School\n"
