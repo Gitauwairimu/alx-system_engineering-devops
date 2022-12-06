@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((`tr -dc : <<<"$PATH" | wc -c`+1))
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/action
