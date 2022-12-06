@@ -1,10 +1,2 @@
 #!/bin/bash
-for i in {a..z} 
-do 
-	if (i==o)
-	then
-		continue
-	fi
-	echo o$i 
-
-done
+for i in {a..z} do 	if (i==o) then continue fiecho o$i done
